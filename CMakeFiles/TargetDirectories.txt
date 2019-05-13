@@ -1,0 +1,5 @@
+/workspace/CMakeSkeleton/CMakeFiles/rebuild_cache.dir
+/workspace/CMakeSkeleton/CMakeFiles/edit_cache.dir
+/workspace/CMakeSkeleton/hello/CMakeFiles/rebuild_cache.dir
+/workspace/CMakeSkeleton/hello/CMakeFiles/edit_cache.dir
+/workspace/CMakeSkeleton/hello/CMakeFiles/hello.dir

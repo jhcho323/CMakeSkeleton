@@ -1,0 +1,4 @@
+CMAKE_MINIMUM_REQUIRED (VERSION 2.8)
+set(EXECUTABLE_OUTPUT_PATH  ${PROJECT_SOURCE_DIR}/__build)
+
+add_subdirectory (hello)

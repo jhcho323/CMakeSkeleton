@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspace/CMakeSkeleton/hello/hello.c
+stdio.h
+-
+hello.h
+/workspace/CMakeSkeleton/hello/hello.h
+global_def.h
+/workspace/CMakeSkeleton/hello/global_def.h
+
+/workspace/CMakeSkeleton/hello/hello.h
+
+include/global_def.h
+
